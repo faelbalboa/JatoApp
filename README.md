@@ -9,8 +9,11 @@
 - Node.js
 - Angular 9
 - Vscode
-- Javascript
+- TypeScript
 - HTML 5
 - CSS 3
 
+
 <h3 align="center"> Objectives: </h3>
+
+
