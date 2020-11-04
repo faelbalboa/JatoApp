@@ -4,7 +4,7 @@
 
 ![imagemMarketing](https://github.com/faelbalboa/Jatospeed/blob/main/logo%20jatospeed%20site.jpg)
 
-<h3> Languages and Frameworks </h3>
+<h3> Tools: </h3>
 
 - Node.js
 - Angular 9
@@ -12,6 +12,7 @@
 - TypeScript
 - HTML 5
 - CSS 3
+- Illustrator
 
 
 <h3 align="center"> Objectives: </h3>
