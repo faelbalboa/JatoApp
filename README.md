@@ -13,6 +13,7 @@
 - HTML 5
 - CSS 3
 - Illustrator
+- PHP
 
 
 <h3 align="center"> Objectives: </h3>
