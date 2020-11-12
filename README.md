@@ -2,7 +2,8 @@
 <h2> Building a car wash management system web and mobile application </h2>
 
 
-![imagemMarketing](https://github.com/faelbalboa/Jatospeed/blob/main/logo%20jatospeed%20site.jpg)
+
+<img src="https://github.com/faelbalboa/Jatospeed/blob/main/logo%20jatospeed%20site.jpg" width="500">
 
 <h3> Tools: </h3>
 
@@ -16,9 +17,9 @@
 - PHP
 
 
-<h3 align="center"> Objectives: </h3>
+<h3> Objectives: </h3>
 
-![imagemobjetivos](https://github.com/faelbalboa/Jatospeed/blob/main/bio%20para%20jatospeed%40300x-100.jpg)
+<img src="https://github.com/faelbalboa/Jatospeed/blob/main/bio%20para%20jatospeed%40300x-100.jpg" width="500">
 
 <h3 align="center"> Image: </h3>
 
