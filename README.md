@@ -1,5 +1,6 @@
 <h1 align="center">Jatospeed </h1>
-<h2> Building a car wash management system web and mobile application </h2>
+<h2 align="center"> Building a car wash management system web and mobile application </h2>
+<h4 align="center"> Project status: Em desenvolvimento :warning: </h4>
 
 
 
@@ -25,6 +26,8 @@
 
 ![imagemlogin](https://github.com/faelbalboa/Jatospeed/blob/main/Ativo%2013.jpg)
 
-<p> This application is being set up with /Joseraldom </p>
+<h3> This application is being set up with /Joseraldom </h3>
+<img src="https://avatars3.githubusercontent.com/u/11074972?s=400&v=4" width=115 > <br> <sub> Joseraldo </sub>
+
 
 
