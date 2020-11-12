@@ -24,4 +24,6 @@
 
 ![imagemlogin](https://github.com/faelbalboa/Jatospeed/blob/main/Ativo%2013.jpg)
 
+<p> This application is being set up with /Joseraldom </p>
+
 
