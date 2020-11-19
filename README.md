@@ -16,6 +16,8 @@
 - CSS 3
 - Illustrator
 - PHP
+- JAVA
+- Figma
 
 
 <h3> Objectives: </h3>
