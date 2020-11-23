@@ -1,4 +1,4 @@
-<h1 align="center">Jatospeed </h1>
+<h1 align="center">JATOFácil </h1>
 <h2 align="center"> Building a car wash management system web and mobile application </h2>
 <h4 align="center"> Project status: Em desenvolvimento :warning: </h4>
 
