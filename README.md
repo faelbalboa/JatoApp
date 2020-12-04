@@ -1,6 +1,6 @@
-<h1 align="center">JATOFácil </h1>
+<h1 align="center">JatoApp </h1>
 <h2 align="center"> Building a car wash management system web and mobile application </h2>
-<h4 align="center"> Project status: Em desenvolvimento :warning: </h4>
+<h4 align="center"> Project status: Building :warning: </h4>
 
 
 
@@ -18,6 +18,8 @@
 - PHP
 - JAVA
 - Figma
+- Eclipse
+- Insomnia
 
 
 <h3> Objectives: </h3>
@@ -28,7 +30,6 @@
 
 ![imagemlogin](https://github.com/faelbalboa/Jatospeed/blob/main/Ativo%2013.jpg)
 
-<p> All design was changed, the new name will be JATOFácil </p>
 
 <h3> This application is being set up with /Joseraldom </h3>
 <div><img src="https://avatars3.githubusercontent.com/u/11074972?s=400&v=4" width=115 > <sub> Joseraldo </sub></div>
