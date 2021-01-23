@@ -11,18 +11,18 @@
 - Node.js
 - Angular 9
 - Vscode
-- TypeScript
-- HTML 5
-- CSS 3
+- **TypeScript**
+- **HTML 5**
+- **CSS 3**
 - Illustrator
-- PHP
-- JAVA
+- **PHP**
+- **JAVA**
 - Figma
 - Eclipse
 - Insomnia
 - Spring tool suite
 - Hostgator (ServService)
-:------:
+
 
 
 <h3> Objectives: </h3>
