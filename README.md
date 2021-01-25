@@ -29,9 +29,7 @@
 
 <img src="https://github.com/faelbalboa/Jatospeed/blob/main/bio%20para%20jatospeed%40300x-100.jpg" width="500">
 
-<h3 align="center"> Image: </h3>
-
-![imagemlogin](https://github.com/faelbalboa/Jatospeed/blob/main/Ativo%2013.jpg)
+<h3 align="center">
 
 
 <h3> This application is being set up with /Joseraldom </h3>
